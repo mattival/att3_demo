@@ -1,6 +1,6 @@
 print("Hello")
 
-print("Hello Hello")
+print("Moro")
 
 viesti = "Hello Hello Hello"
 
